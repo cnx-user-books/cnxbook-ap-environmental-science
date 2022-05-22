@@ -1,0 +1,736 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>FLOW OF ENERGY</title>
+  <metadata>
+  <md:content-id>m16468</md:content-id><md:title>FLOW OF ENERGY</md:title>
+  <md:abstract>This text is designed to acquaint students with the physical, ecological, social, and political principles of environmental science. Scientific method is used to analyze and understand the interrelationships between humans and the natural environment. This test shows how ecological realities and the material desire of humans often clash, leading to environmental degradation and pollution.</md:abstract>
+  <md:uuid>ffccb486-e893-49b4-866e-b3cd3a989b4c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.ucopenaccess.org/course/view.php?id=5" strength="3">AP Environmental Science Course</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id-15827935552">
+      <title>THE FLOW OF ENERGY </title>
+      <para id="id10880581">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-23500965284">
+      <title>INTRODUCTION</title>
+      <para id="id11112678"><term>Energy</term> is the ability to do <term>work</term>. Work is done when a force is applied to an object over a distance. Any moving object has <term>kinetic energy</term> or energy of motion, and it thus can do work. Similarly, work has to be done on an object to change its kinetic energy. The kinetic energy of an object of mass 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math> and speed 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>v</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v} {}</m:annotation></m:semantics></m:math>is given by the relation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>E</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">/</m:mo><m:mn>2</m:mn></m:mrow></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>mv</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{E=1/2 ital "mv" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id12863482">Sometimes energy can be stored and used at a later time. For example, a compressed spring and water held back by a dam both have the potential to do work. They are said to possess <term>potential energy</term>. When the spring or water is released its potential energy is transformed into kinetic energy and other forms of energy such as heat. The energy associated to the gravitational force near the surface of the earth is potential energy. Other forms of energy are really combinations of kinetic and potential energy. Chemical energy, for example, is the electrical potential energy stored in atoms. Heat energy is a combination of the potential and kinetic energy of the particles in a substance.</para>
+    </section>
+    <section id="id-182137076574">
+      <title>FORMS OF ENERGY</title>
+      <para id="id3862026"><term>Mechanical energy</term> puts something in motion. It moves cars and lifts elevators. A machine uses mechanical energy to do work. The mechanical energy of a system is the sum of its kinetic and potential energy. Levers, which need a fulcrum to operate, are the simplest type of machine. Wheels, pulleys and inclined planes are the basic elements of most machines. </para>
+      <para id="id13191278"><term>Chemical energy</term> is the energy stored in molecules and chemical compounds, and is found in food, wood, coal, petroleum and other fuels. When the chemical bonds are broken, either by combustion or other chemical reactions, the stored chemical energy is released in the form of heat or light. For example, muscle cells contain glycogen. When the muscle does work the glycogen is broken down into glucose. When the chemical energy in the glucose is transferred to the muscle fibers some of the energy goes into the surroundings as heat.</para>
+      <para id="id10131223"><term>Electrical energy</term> is produced when unbalanced forces between electrons and protons in atoms create moving electrons called electric currents. For example, when we spin a copper wire through the poles of a magnet we induce the motion of electrons in the wire and produce electricity. Electricity can be used to perform work such as lighting a bulb, heating a cooking element on a stove or powering a motor. Note that electricity is a "secondary" source of energy. That means other sources of energy are needed to produce electricity.</para>
+      <para id="id14067542"> </para>
+      <para id="id12846661"><term>Radiant energy</term> is carried by waves. Changes in the internal energy of particles cause the atoms to emit energy in the form of electromagnetic radiation which includes visible light, ultraviolet (UV) radiation, infrared (IR) radiation, microwaves, radio waves, gamma rays, and X-rays. Electromagnetic radiation from the sun, particularly light, is of utmost importance in environmental systems because biogeochemical cycles and virtually all other processes on earth are driven by them.</para>
+      <para id="id10917213"> </para>
+      <para id="id9239832"><term>Thermal energy</term> or <term>Heat energy</term> is related to the motion or vibration of molecules in a substance. When a thermal system changes, heat flows in or out of the system. Heat energy flows from hot bodies to cold ones. Heat flow, like work, is an energy transfer. When heat flows into a substance it may increase the kinetic energy of the particles and thus elevate its temperature. Heat flow may also change the arrangement of the particles making up a substance by increasing their potential energy. This is what happens to water when it reaches a temperature of 100ºC. The molecules of water move further away from each other, thereby changing the state of the water from a liquid to a gas. During the phase transition the temperature of the water does not change.</para>
+      <para id="id13194980"> </para>
+      <para id="id10151374"><term>Nuclear Energy</term> is energy that comes from the binding of the protons and neutrons that make up the nucleus of the atoms. It can be released from atoms in two different ways: nuclear fusion or nuclear fission. In <term>nuclear fusion</term>, energy is released when atoms are combined or fused together. This is how the sun produces energy. In <term>nuclear fission</term>, energy is released when atoms are split apart. Nuclear fission is used in nuclear power plants to produce electricity. Uranium 235 is the fuel used in most nuclear power plants because it undergoes a chain reaction extremely rapidly, resulting in the fission of trillions of atoms within a fraction of a second.</para>
+      <para id="id11575444"> </para>
+    </section>
+    <section id="id-255177512428">
+      <title>SOURCES AND SINKS</title>
+      <para id="id13352472">The source of energy for many processes occurring on the earth's surface comes from the sun. Radiating solar energy heats the earth unevenly, creating air movements in the atmosphere. Therefore, the sun drives the winds, ocean currents and the water cycle. Sunlight energy is used by plants to create chemical energy through a process called photosynthesis, and this supports the life and growth of plants. In addition, dead plant material decays, and over millions of years is converted into fossil fuels (oil, coal, etc.).</para>
+      <para id="id13280887">Today, we make use of various sources of energy found on earth to produce electricity. Using machines, we convert the energies of wind, biomass, fossil fuels, water, heat trapped in the earth (geothermal), nuclear and solar energy into usable electricity. The above sources of energy differ in amount, availability, time required for their formation and usefulness. For example, the energy released by one gram of uranium during nuclear fission is much larger than that produced during the combustion of an equal mass of coal.</para>
+      <para id="id13364250">   US ENERGY PRODUCTION (Quadrillion BTU)</para>
+      <table id="id5810120" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>(Source: US DOE)</entry>
+              <entry>1975</entry>
+              <entry>2000</entry>
+            </row>
+            <row>
+              <entry>Coal</entry>
+              <entry>14.989 (24.4%)</entry>
+              <entry>22.663 (31.5%)</entry>
+            </row>
+            <row>
+              <entry>Natural Gas (dry)</entry>
+              <entry>19.640 (32.0%)</entry>
+              <entry>19.741 (27.5%)</entry>
+            </row>
+            <row>
+              <entry>Crude Oil</entry>
+              <entry>17.729 (28.9%)</entry>
+              <entry>12.383 (17.2%)</entry>
+            </row>
+            <row>
+              <entry>Nuclear</entry>
+              <entry>1.900 (3.1%) </entry>
+              <entry>8.009 (11.2%)</entry>
+            </row>
+            <row>
+              <entry>Hydroelectric</entry>
+              <entry>3.155 (5.1%)</entry>
+              <entry>2.841 (4.0%)</entry>
+            </row>
+            <row>
+              <entry>Natural Gas (plant liquid)</entry>
+              <entry>2.374 (3.9%)</entry>
+              <entry>2.607 (3.6%)</entry>
+            </row>
+            <row>
+              <entry>Geothermal</entry>
+              <entry>0.070 (0.1%)</entry>
+              <entry>0.319 (0.4%)</entry>
+            </row>
+            <row>
+              <entry>Other</entry>
+              <entry>1.499 (2.5%)</entry>
+              <entry>3.275 (4.6%)</entry>
+            </row>
+            <row>
+              <entry>TOTAL</entry>
+              <entry>61.356</entry>
+              <entry>71.838</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id9479980"> </para>
+      <para id="id3837247">(Source: US Department of Energy)</para>
+      <para id="id13448076">An <term>energy sink</term> is anything that collects a significant quantity of energy that is either lost or not considered transferable in the system under study. Sources and sinks have to be included in an energy budget when accounting for the energy flowing into and out of a system.</para>
+    </section>
+    <section id="id-928979380316">
+      <title>CONSERVATION OF ENERGY</title>
+      <para id="id3241902">Though energy can be converted from one form to another, energy cannot be created or destroyed. This principle is called the "law of conservation of energy." For example, in a motorcycle, the chemical potential energy of the fuel changes to kinetic energy. In a radio, electricity is converted into kinetic energy and wave energy (sound).</para>
+      <para id="id14401391">Machines can be used to convert energy from one form to another. Though ideal machines conserve the mechanical energy of a system, some of the energy always turns into heat when using a machine. For example, heat generated by friction is hard to collect and transform into another form of energy. In this situation, heat energy is usually considered unusable or lost.</para>
+      <para id="id6184180"> </para>
+    </section>
+    <section id="id-950303091462">
+      <title>ENERGY UNITS</title>
+      <para id="id9616687">In the International System of Units (SI), the unit of work or energy is the <term>Joule </term>(J). For very small amounts of energy, the erg (erg) is sometimes used. An <term>erg </term>is one ten millionth of a Joule: </para>
+      <equation id="id13981139">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Joule</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mtext>10</m:mtext>
+                            <m:mi>,</m:mi>
+                            <m:mtext>000</m:mtext>
+                            <m:mi>,</m:mi>
+                            <m:mtext>000</m:mtext>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>ergs</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "Joule"{}
+} = matrix {
+"10","000","000" {} #  ital "ergs"{}
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id12488334"><term>Power </term>is the rate at which energy is used. The unit of power is the <term>Watt </term>(W), named after James Watt, who perfected the steam engine:</para>
+      <equation id="id3667360">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Watt</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Joule</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mtext>/sec</m:mtext>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>ond</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "Watt"{}
+} = matrix {
+1 {} #  ital "Joule""/sec" ital "ond"{}
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id14348878"> Power is sometimes measured in <term>horsepower </term>(hp):</para>
+      <equation id="id10060404">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>horsepower</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mtext>746</m:mtext>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Watts</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "horsepower"{}
+} = matrix {
+"746" {} #  ital "Watts"{}
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id11017282"> <term>Electrical ene</term>rgy is generally expressed in <term>kilowatt-hours </term>(kWh):</para>
+      <equation id="id6397811">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>kilowatt</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>hour</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>3,</m:mn>
+                            <m:mtext>600</m:mtext>
+                            <m:mi>,</m:mi>
+                            <m:mtext>000</m:mtext>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Joules</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "kilowatt" -  ital "hour"{}
+} = matrix {
+3,"600","000" {} #  ital "Joules"{}
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id14056431">
+        <emphasis>It is important to realize that a kilowatt-hour is a unit of energy not power. For example, an iron rated at </emphasis>
+        <emphasis>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mtext>2000</m:mtext>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Watts</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+"2000" {} #  ital "Watts"{}
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </emphasis>
+        <emphasis> would consume </emphasis>
+        <emphasis>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>2x3</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mn>6x</m:mn>
+                            <m:msup>
+                              <m:mtext>10</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>6</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mi>J</m:mi>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+2x3 "." 6x"10" rSup { size 8{6} }  {} # J{}
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </emphasis>
+        <emphasis> of energy in </emphasis>
+        <emphasis>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>hour</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "hour"{}
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </emphasis>
+        <emphasis>.</emphasis>
+      </para>
+      <para id="id3356600"><emphasis>Heat energy is often measured in calories. One calorie (cal) is defined as the heat required to raise the temperature of </emphasis><emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>gram</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "gram"{}
+} } {}</m:annotation></m:semantics></m:math></emphasis><emphasis> of water from </emphasis>14.5 <emphasis>to </emphasis>15.5 ºC:</para>
+      <equation id="id13011502">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>calorie</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>4</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>189</m:mtext>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Joules</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "calorie"{}
+} = matrix {
+4 "." "189" {} #  ital "Joules"{}
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id6979874">An old, but still used unit of heat is the <term>British Thermal Unit</term> (BTU). It is defined as the heat energy required to raise the energy temperature of 1 pound of water from 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mtext>63</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"63"} {}</m:annotation></m:semantics></m:math> to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>64</m:mtext><m:mmultiscripts><m:mtext/><m:mprescripts/><m:none/><m:mstyle fontsize="8pt"><m:mrow><m:mo stretchy="false">°</m:mo></m:mrow></m:mstyle></m:mmultiscripts><m:mi>F</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"64""" lSup { size 8{ circ } } F} {}</m:annotation></m:semantics></m:math>.</para>
+      <table id="id10188292" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry> Physical Quantity</entry>
+              <entry>Name</entry>
+              <entry>Symbol</entry>
+              <entry>SI Unit</entry>
+            </row>
+            <row>
+              <entry>  Force</entry>
+              <entry>Newton</entry>
+              <entry>N</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>kg</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mi>m</m:mi>
+                            </m:mrow>
+                            <m:mo stretchy="false">/</m:mo>
+                            <m:msup>
+                              <m:mi>s</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ ital "kg" cdot m/s rSup { size 8{2} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>  Energy</entry>
+              <entry>Joule</entry>
+              <entry>J</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>kg</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:msup>
+                                <m:mi>m</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                            <m:mo stretchy="false">/</m:mo>
+                            <m:msup>
+                              <m:mi>s</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ ital "kg" cdot m rSup { size 8{2} } /s rSup { size 8{2} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>  Power</entry>
+              <entry> Watt</entry>
+              <entry>W</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>kg</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:msup>
+                                <m:mi>m</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                            <m:mo stretchy="false">/</m:mo>
+                            <m:msup>
+                              <m:mi>s</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ ital "kg" cdot m rSup { size 8{2} } /s rSup { size 8{3} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id9677240">
+        <quote id="id1168618482194" display="block"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BTU</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable><m:mo stretchy="false">=</m:mo><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>1055</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Joules</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "BTU"{}
+} = matrix {
+"1055" {} #  ital "Joules"{}
+} } {}</m:annotation></m:semantics></m:math></quote>
+      </para>
+    </section>
+  </content>
+</document>
